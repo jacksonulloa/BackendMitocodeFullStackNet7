@@ -1,0 +1,11 @@
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\bin\Release\net7.0\GamerSellStore.Entities.deps.json
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\bin\Release\net7.0\GamerSellStore.Entities.dll
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\bin\Release\net7.0\GamerSellStore.Entities.pdb
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\obj\Release\net7.0\GamerSellStore.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\obj\Release\net7.0\GamerSellStore.Entities.AssemblyInfoInputs.cache
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\obj\Release\net7.0\GamerSellStore.Entities.AssemblyInfo.cs
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\obj\Release\net7.0\GamerSellStore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\obj\Release\net7.0\GamerSellStore.Entities.dll
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\obj\Release\net7.0\refint\GamerSellStore.Entities.dll
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\obj\Release\net7.0\GamerSellStore.Entities.pdb
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Entities\obj\Release\net7.0\ref\GamerSellStore.Entities.dll

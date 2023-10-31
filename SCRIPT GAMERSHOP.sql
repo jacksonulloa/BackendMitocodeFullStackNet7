@@ -1,0 +1,25 @@
+INSERT INTO GamerShop.Titulo
+(Nombre, Descripcion, PublisherId, GeneroId, ConsolaId, ClasificacionId, Costo, Moneda, Stock, Agotado, ImageUrl, AnioPublicacion, Estado)
+VALUES 
+('Resident Evil 0', 'Precuela al inicio de la saga', 5, 1, 7, 3, 15, 'PEN', 10, 0, null, 2002, 1),
+('Resident Evil 1', 'El primero de la saga', 5, 1, 7, 3, 15, 'PEN', 10, 0, null, 1996, 1),
+('Resident Evil 2', 'Secuela y el mas exitoso a la fecha', 5, 1, 7, 3, 15, 'PEN', 10, 0, null, 1998, 1),
+('Resident Evil 3', 'Transcurre en paralelo al Resident Evil 2', 5, 1, 7, 3, 15, 'PEN', 10, 0, null, 1999, 1),
+('Resident Evil 4', 'El primero de la segunda generacion de consolas', 5, 1, 8, 3, 30, 'PEN', 10, 0, null, 2005, 1),
+('Resident Evil 5', 'Centrado en Chris Ritchfield', 5, 1, 9, 3, 35, 'PEN', 15, 0, null, 2009, 1),
+('Silent Hill', 'El que impuso el terror psicologico', 18, 1, 7, 3, 13, 'PEN', 20, 0, null, 1999, 1),
+('Silent Hill 2', 'El calificado por los fans como el mejor de la saga', 18, 1, 8, 3, 55, 'PEN', 20, 0, null, 2001, 1),
+('Silent Hill 3', 'Continua con la aventura', 18, 1, 8, 3, 35, 'PEN', 20, 0, null, 2003, 1),
+('Silent Hill 4:The room', 'El ultimo del team SILENT', 18, 1, 9, 3, 35, 'PEN', 20, 0, null, 2004, 1),
+('Silent Hill:Origins', 'Explorando nuevos horizontes para la saga', 18, 1, 12, 3, 13, 'PEN', 20, 0, null, 2007, 1),
+('Silent Hill:Shattered memories', 'Una nueva perspectiva sobre la jugabilidad', 18, 1, 8, 3, 40, 'PEN', 12, 0, null, 2009, 1),
+('Silent Hill:Homecoming', 'Un capitulo mas de la famosa saga', 18, 1, 9, 3, 50, 'PEN', 20, 0, null, 2008, 1),
+('Silent Hill:Downpour', 'El ultimo de la saga', 18, 1, 9, 3, 65, 'PEN', 15, 0, null, 2012, 1),
+('God of War', 'El inicio de un largo camino para Kratos', 19, 5, 8, 3, 50, 'PEN', 15, 0, null, 2005, 1),
+('God of War II', 'Continuan las aventuras por la venganza de Kartos', 19, 5, 8, 5, 50, 'PEN', 15, 0, null, 2007, 1),
+('God of War III', 'La caida del olimpo y el propio Kratos', 19, 5, 9, 5, 80, 'PEN', 15, 0, null, 2010, 1),
+('God of War:Omega', 'El inicio de la saga nordica', 19, 5, 10, 5, 45, 'PEN', 15, 0, null, 2018, 1),
+('God of War:Ragnarok', 'Fin de la saga nordica', 19, 5, 10, 5, 325, 'PEN', 15, 0, null, 2022, 1),
+('Final Fantasy VII', 'Las aventuras de Cloud para derrotar a Sephiro', 13, 2, 7, 2, 25, 'PEN', 32, 0, null, 1997, 1),
+('Final Fantasy VIII', 'Las aventuras de Squall', 13, 2, 7, 2, 25, 'PEN', 8, 0, null, 1999, 1),
+('Final Fantasy IX', 'Las aventuras de Zidane', 13, 2, 7, 2, 50, 'PEN', 7, 0, null, 2000, 1)

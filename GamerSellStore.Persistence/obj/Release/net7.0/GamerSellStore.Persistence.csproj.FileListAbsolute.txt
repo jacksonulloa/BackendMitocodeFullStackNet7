@@ -1,0 +1,17 @@
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\bin\Release\net7.0\GamerSellStore.Persistence.deps.json
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\bin\Release\net7.0\GamerSellStore.Persistence.runtimeconfig.json
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\bin\Release\net7.0\GamerSellStore.Persistence.dll
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\bin\Release\net7.0\GamerSellStore.Persistence.pdb
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\bin\Release\net7.0\GamerSellStore.Entities.dll
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\bin\Release\net7.0\GamerSellStore.Entities.pdb
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.csproj.AssemblyReference.cache
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.AssemblyInfoInputs.cache
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.AssemblyInfo.cs
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.csproj.CopyComplete
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.dll
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\refint\GamerSellStore.Persistence.dll
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.pdb
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\GamerSellStore.Persistence.genruntimeconfig.cache
+C:\Users\JACKSON\source\repos\GamerSellStore\GamerSellStore.Persistence\obj\Release\net7.0\ref\GamerSellStore.Persistence.dll

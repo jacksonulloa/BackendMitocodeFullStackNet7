@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "J9UfzKe7NzG5dqLkZKDBqhJ0s4r55IUqJaflKOUztXc=",
+  "Source": "GamerSellStore.Api",
+  "BasePath": "_content/GamerSellStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GamerSellStore.Api\\wwwroot",
+      "Source": "GamerSellStore.Api",
+      "ContentRoot": "C:\\Users\\JACKSON\\source\\repos\\GamerSellStore\\GamerSellStore.Api\\wwwroot\\",
+      "BasePath": "_content/GamerSellStore.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\JACKSON\\source\\repos\\GamerSellStore\\GamerSellStore.Api\\wwwroot\\imagenes\\FFVII.jpg",
+      "SourceId": "GamerSellStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JACKSON\\source\\repos\\GamerSellStore\\GamerSellStore.Api\\wwwroot\\",
+      "BasePath": "_content/GamerSellStore.Api",
+      "RelativePath": "imagenes/FFVII.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\FFVII.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\JACKSON\\source\\repos\\GamerSellStore\\GamerSellStore.Api\\wwwroot\\imagenes\\ROCKMANX.jpg",
+      "SourceId": "GamerSellStore.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\JACKSON\\source\\repos\\GamerSellStore\\GamerSellStore.Api\\wwwroot\\",
+      "BasePath": "_content/GamerSellStore.Api",
+      "RelativePath": "imagenes/ROCKMANX.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\ROCKMANX.jpg"
+    }
+  ]
+}
